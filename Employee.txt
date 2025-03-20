@@ -1,2 +1,2 @@
-server.prot=2222
+server.prot=2200
 spring.application.name=root.root2
